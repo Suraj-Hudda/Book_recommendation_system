@@ -140,3 +140,41 @@
 2024-09-29 00:13:13 INFO:  * Restarting with watchdog (windowsapi)
 2024-09-29 00:14:50 INFO:  * Restarting with watchdog (windowsapi)
 2024-09-29 00:16:29 INFO:  * Restarting with watchdog (windowsapi)
+2024-09-29 00:58:30 INFO:  * Restarting with watchdog (windowsapi)
+2024-09-30 21:29:33,799 - ERROR - Error loading model data: [Errno 2] No such file or directory: 'book_recommendation_model.pkl'
+2024-10-01 12:23:55,471 - INFO - Starting the Flask application...
+2024-10-01 12:23:55,513 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-01 12:23:55,513 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-01 12:23:55,531 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-01 12:23:58,244 - INFO - Starting the Flask application...
+2024-10-01 12:23:58,256 - WARNING -  * Debugger is active!
+2024-10-01 12:23:58,262 - INFO -  * Debugger PIN: 798-270-168
+2024-10-01 12:24:22,504 - INFO -  * Detected change in 'c:\\Users\\suraj\\Desktop\\book_recommendation\\app.py', reloading
+2024-10-01 12:24:22,505 - INFO -  * Detected change in 'c:\\Users\\suraj\\Desktop\\book_recommendation\\app.py', reloading
+2024-10-01 12:24:22,526 - INFO -  * Detected change in 'c:\\Users\\suraj\\Desktop\\book_recommendation\\app.py', reloading
+2024-10-01 12:24:23,759 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-01 12:24:26,948 - INFO - Starting the Flask application...
+2024-10-01 12:24:26,962 - WARNING -  * Debugger is active!
+2024-10-01 12:24:26,969 - INFO -  * Debugger PIN: 798-270-168
+2024-10-01 12:24:27,751 - INFO -  * Detected change in 'c:\\Users\\suraj\\Desktop\\book_recommendation\\app.py', reloading
+2024-10-01 12:24:27,752 - INFO -  * Detected change in 'c:\\Users\\suraj\\Desktop\\book_recommendation\\app.py', reloading
+2024-10-01 12:24:28,444 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-01 12:24:31,349 - INFO - Starting the Flask application...
+2024-10-01 12:24:31,362 - WARNING -  * Debugger is active!
+2024-10-01 12:24:31,369 - INFO -  * Debugger PIN: 798-270-168
+2024-10-01 12:24:49,172 - INFO - Starting the Flask application...
+2024-10-01 12:24:49,208 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:80
+2024-10-01 12:24:49,208 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-01 12:24:49,226 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-01 12:24:52,042 - INFO - Starting the Flask application...
+2024-10-01 12:24:52,055 - WARNING -  * Debugger is active!
+2024-10-01 12:24:52,061 - INFO -  * Debugger PIN: 798-270-168
+2024-10-01 12:24:54,896 - INFO - 127.0.0.1 - - [01/Oct/2024 12:24:54] "GET / HTTP/1.1" 200 -
+2024-10-01 12:24:55,015 - INFO - 127.0.0.1 - - [01/Oct/2024 12:24:55] "GET /static/style.css HTTP/1.1" 200 -
+2024-10-01 12:24:55,105 - INFO - 127.0.0.1 - - [01/Oct/2024 12:24:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-01 12:24:56,996 - INFO - Book titles fetched successfully.
+2024-10-01 12:24:56,998 - INFO - 127.0.0.1 - - [01/Oct/2024 12:24:56] "GET /get_book_titles HTTP/1.1" 200 -
+2024-10-01 12:25:01,184 - INFO - Recommendations for 'Data Smart' returned successfully.
+2024-10-01 12:25:01,184 - INFO - 127.0.0.1 - - [01/Oct/2024 12:25:01] "GET /recommend?title=Data%20Smart HTTP/1.1" 200 -
