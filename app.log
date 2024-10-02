@@ -178,3 +178,36 @@
 2024-10-01 12:24:56,998 - INFO - 127.0.0.1 - - [01/Oct/2024 12:24:56] "GET /get_book_titles HTTP/1.1" 200 -
 2024-10-01 12:25:01,184 - INFO - Recommendations for 'Data Smart' returned successfully.
 2024-10-01 12:25:01,184 - INFO - 127.0.0.1 - - [01/Oct/2024 12:25:01] "GET /recommend?title=Data%20Smart HTTP/1.1" 200 -
+2024-10-01 12:41:34,641 - INFO - Starting the Flask application...
+2024-10-01 12:41:34,677 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:80
+2024-10-01 12:41:34,677 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-01 12:41:34,694 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-01 12:41:37,337 - INFO - Starting the Flask application...
+2024-10-01 12:41:37,351 - WARNING -  * Debugger is active!
+2024-10-01 12:41:37,358 - INFO -  * Debugger PIN: 798-270-168
+2024-10-01 12:41:50,172 - INFO - 127.0.0.1 - - [01/Oct/2024 12:41:50] "GET / HTTP/1.1" 200 -
+2024-10-01 12:41:50,282 - INFO - 127.0.0.1 - - [01/Oct/2024 12:41:50] "GET /static/style.css HTTP/1.1" 200 -
+2024-10-01 12:41:52,131 - INFO - Book titles fetched successfully.
+2024-10-01 12:41:52,132 - INFO - 127.0.0.1 - - [01/Oct/2024 12:41:52] "GET /get_book_titles HTTP/1.1" 200 -
+2024-10-01 12:41:58,928 - INFO - Recommendations for 'Orientalism' returned successfully.
+2024-10-01 12:41:58,928 - INFO - 127.0.0.1 - - [01/Oct/2024 12:41:58] "GET /recommend?title=Orientalism HTTP/1.1" 200 -
+2024-10-01 12:42:08,661 - INFO - Recommendations for 'Orientalism' returned successfully.
+2024-10-01 12:42:08,661 - INFO - 127.0.0.1 - - [01/Oct/2024 12:42:08] "GET /recommend?title=Orientalism HTTP/1.1" 200 -
+2024-10-01 18:18:05,304 - INFO - Recommendations for 'Nature of Statistical Learning Theory, The' returned successfully.
+2024-10-01 18:18:05,305 - INFO - 127.0.0.1 - - [01/Oct/2024 18:18:05] "GET /recommend?title=Nature%20of%20Statistical%20Learning%20Theory,%20The HTTP/1.1" 200 -
+2024-10-02 13:18:19,948 - INFO - Starting the Flask application...
+2024-10-02 13:18:20,021 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:80
+2024-10-02 13:18:20,022 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-02 13:18:20,045 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-02 13:18:22,815 - INFO - Starting the Flask application...
+2024-10-02 13:18:22,829 - WARNING -  * Debugger is active!
+2024-10-02 13:18:22,856 - INFO -  * Debugger PIN: 355-611-901
+2024-10-02 13:18:33,182 - INFO - 127.0.0.1 - - [02/Oct/2024 13:18:33] "GET / HTTP/1.1" 200 -
+2024-10-02 13:18:33,297 - INFO - 127.0.0.1 - - [02/Oct/2024 13:18:33] "GET /static/style.css HTTP/1.1" 200 -
+2024-10-02 13:18:33,387 - INFO - 127.0.0.1 - - [02/Oct/2024 13:18:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-02 13:18:35,395 - INFO - Book titles fetched successfully.
+2024-10-02 13:18:35,396 - INFO - 127.0.0.1 - - [02/Oct/2024 13:18:35] "GET /get_book_titles HTTP/1.1" 200 -
+2024-10-02 13:18:40,588 - INFO - Recommendations for 'God Created the Integers' returned successfully.
+2024-10-02 13:18:40,589 - INFO - 127.0.0.1 - - [02/Oct/2024 13:18:40] "GET /recommend?title=God%20Created%20the%20Integers HTTP/1.1" 200 -
